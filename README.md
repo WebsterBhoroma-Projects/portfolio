@@ -1,14 +1,13 @@
-👋 Welcome to Webster Bhoroma's Portfolio
+#👋 Welcome to Webster Bhoroma's Portfolio
 🚀 Solutions Architect | Full-Stack Developer | Network Infrastructure Specialist
 Highly analytical and impact-driven IT professional specializing in bridging the gap between complex network infrastructure and user-centric software solutions. I excel at identifying technical "blind spots" and translating them into scalable, high-performance applications.
 
-🛠️ Core Competencies
+#🛠️ Core Competencies
 Software & Web Development
 
 Languages: PHP (Laravel), JavaScript (ES6+), Python, SQL, HTML5, CSS3.
 
-
-Frameworks/Tools: React.js, WordPress (Headless/Functional), Bootstrap.
+#Frameworks/Tools: React.js, WordPress (Headless/Functional), Bootstrap.
 
 
 Database Management: MySQL, PostgreSQL, and Database Schema Design.
